@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2033212004_lamtuandat_cau2/1.0.0": {
+        "runtime": {
+          "2033212004_lamtuandat_cau2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2033212004_lamtuandat_cau2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
